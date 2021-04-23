@@ -1,3 +1,3 @@
 # Streamit
 
-Website URL - www.streamitup.netlify.app
+Website URL - https://streamitup.netlify.app
