@@ -1,0 +1,21 @@
+body
+{
+	background-image: url("https://images.unsplash.com/photo-1470225620780-dba8ba36b745?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzJ8fG11c2ljJTIwYmFja2dyb3VuZHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=500&q=60");
+	color: white;
+	background-size: cover;
+}
+
+footer {
+  background-color: black;
+  padding: 1.6rem 1rem;
+  text-align: center;
+}
+
+footer p {
+  color: white;
+}
+
+#heart
+{
+  font-size: 18px;
+}
